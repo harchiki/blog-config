@@ -1,0 +1,5 @@
+blogapp:
+  serviceInfo: "Account Service V1 default"
+  contactDetails:
+    name: "El Primo - Developer"
+    email: "elprimo@blogapp.com"

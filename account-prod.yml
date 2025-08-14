@@ -1,0 +1,5 @@
+blogapp:
+  serviceInfo: "Account Service V1 prod"
+  contactDetails:
+    name: "Edgar - Product Owner"
+    email: "edgar@blogapp.com"
