@@ -1,0 +1,5 @@
+blogapp:
+  serviceInfo: "User Service V1 QA"
+  contactDetails:
+    name: "Daryl - Tester"
+    email: "daryl@blogapp.com"
